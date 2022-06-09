@@ -1,14 +1,14 @@
 .super-mario {
     width: 200px;
-    top: 100px;
-    left: 100px;
+   top: 200px;
  /*  position: absolute;
     z-index: 1;*/
     
   }
   
   .goomba {
-    width: 100px;
+    width: 110px;
+    
    /* position: absolute;
     z-index: 2; */
   }
