@@ -1,0 +1,7 @@
+p, h1 { text-align: center;}
+
+li:hover {background-color: aqua;}
+li:active { font-family: 'Times New Roman', Times, serif;}
+
+
+ol, ul {list-style:none}
